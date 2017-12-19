@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Variables , Types , Operators and Expressions</title>
+<script>
+var name="Rohith";
+alert(name);
+</script>
+</head>
+<body>
+<h1>Variables , Types , Operators and Expressions</h1>
+</body>
+</html>
